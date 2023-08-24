@@ -73,9 +73,9 @@ section {
     margin-left: 25px;
 }
 
-/* changed div to article */
+/* changed div to main */
 
-article {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
